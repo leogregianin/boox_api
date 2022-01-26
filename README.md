@@ -2,6 +2,15 @@
 
 Bookstore REST API with Elixir and Phoenix
 
+## Endpoints
+
+  * GET `/books`
+  * GET `/books/:id`
+  * POST `/books`
+  * PUT `/books/:id`
+  * DELETE `/books/:id`
+  * PATCH `/books/:id`
+
 ## Step by step
 
   * Install Erlang VM and Elixir
