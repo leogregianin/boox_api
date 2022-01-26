@@ -1,6 +1,6 @@
 # BooxApi
 
-Bookstore REST API with Elixir and Phoenix
+Open Bookstore REST API with Elixir and Phoenix
 
 ## Endpoints
 
