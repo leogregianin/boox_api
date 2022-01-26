@@ -12,6 +12,21 @@ Bookstore REST API with Elixir and Phoenix
   * DELETE `/books/:id`
   * PATCH `/books/:id`
 
+  * Examples:
+      ```
+      {
+        "book": {
+          "title": "Python Fluente",
+          "isbn": "978-85-7522-462-5",
+          "price": 50.51,
+          "description": "Programação clara, concisa e eficaz",
+          "authors": [
+            "Luciano Ramalho"
+          ]
+        }
+      }
+      ```
+
 ## Step by step
 
   * Install Erlang VM and Elixir
