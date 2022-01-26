@@ -39,7 +39,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Deploy
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+  * [Gigalixir deployment](https://gigalixir.readthedocs.io/en/latest/getting-started-guide.html)
+  * API URL: `https://boox-api.gigalixirapp.com/api/books`
 
 ## License
 
