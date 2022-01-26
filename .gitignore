@@ -32,3 +32,5 @@ boox_api-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Gigalixir python cli
+/.venv
