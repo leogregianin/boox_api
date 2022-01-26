@@ -4,6 +4,7 @@ Bookstore REST API with Elixir and Phoenix
 
 ## Endpoints
 
+  * Base URL: `https://boox-api.gigalixirapp.com/api`
   * GET `/books`
   * GET `/books/:id`
   * POST `/books`
